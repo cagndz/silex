@@ -1,0 +1,13 @@
+{
+  "name": "silex-theme-source",
+  "private": true,
+  "type": "module",
+  "description": "Source for the Silex editor theme. Run `pnpm build` to regenerate every port.",
+  "scripts": {
+    "build": "node build.ts"
+  },
+  "engines": {
+    "node": ">=22.18"
+  },
+  "license": "MIT"
+}

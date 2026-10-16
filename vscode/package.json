@@ -1,0 +1,40 @@
+{
+  "name": "silex",
+  "displayName": "Silex",
+  "description": "A quiet dark theme. Color where it counts, gray everywhere else.",
+  "version": "0.1.0",
+  "publisher": "cagndz",
+  "author": "Carlos Agundez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cagndz/silex"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "minimal",
+    "vesper",
+    "ayu",
+    "monochrome"
+  ],
+  "galleryBanner": {
+    "color": "#101010",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Silex",
+        "uiTheme": "vs-dark",
+        "path": "./themes/silex-color-theme.json"
+      }
+    ]
+  }
+}

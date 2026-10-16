@@ -1,0 +1,7 @@
+id = "silex-theme"
+name = "Silex"
+version = "0.1.0"
+schema_version = 1
+authors = ["Carlos Agundez"]
+description = "A quiet dark theme. Color where it counts, gray everywhere else."
+repository = "https://github.com/cagndz/silex"
