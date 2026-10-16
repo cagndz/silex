@@ -2,7 +2,7 @@
 
 ![Silex](assets/hero.png)
 
-Available for Zed, VS Code and Cursor.
+Available for [VS Code](https://marketplace.visualstudio.com/items?itemName=cagndz.silex) and [Cursor, VSCodium and Windsurf](https://open-vsx.org/extension/cagndz/silex).
 
 ## Development
 
